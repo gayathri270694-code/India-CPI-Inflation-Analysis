@@ -33,7 +33,7 @@ This project analyses India's Consumer Price Index (CPI) data to understand infl
 - Investigated correlations between imported crude oil prices and CPI categories.
 
 ## Project Files
-- - [View Excel Workbook](./India_CPI_Inflation_Analysis.xlsx) - Excel workbook containing the analysis and calculations.
+ [View Excel Workbook](./India_CPI_Inflation_Analysis.xlsx) - Excel workbook containing the analysis and calculations.
 
 ## Learning Outcomes
 Developed practical experience in Excel-based data analysis, percentage calculations, category comparisons, trend analysis and correlation analysis.
